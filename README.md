@@ -1,4 +1,5 @@
 # Bootcamp Projects
+(In Progress Building)
 
 Data science bootcamp with `DataRockie`
 
@@ -14,3 +15,5 @@ We learn 10 sprints during 4 month Program.
 - Intro to Python
 - Essential Python for Data Analyst
 - Dashboard
+
+
